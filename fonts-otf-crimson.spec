@@ -46,3 +46,10 @@ ttmkfdir %{buildroot}%{_xfontdir}/OTF/crimson -o %{buildroot}%{_xfontdir}/OTF/cr
 %verify(not mtime) %{_datadir}/fonts/OTF/crimson/fonts.dir
 %{_xfontdir}/OTF/crimson/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/otf-crimson:pri=50
+
+
+%changelog
+* Thu Dec 15 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 20110816-1
++ Revision: 741434
+- imported package fonts-otf-crimson
+
