@@ -3,7 +3,7 @@
 Summary:	Crimson serif font family
 Name:		fonts-otf-crimson
 Version:	20110816
-Release:	1
+Release:	2
 License:	OFL
 Group:		System/Fonts/True type
 URL:		http://openfontlibrary.org/font/crimson
