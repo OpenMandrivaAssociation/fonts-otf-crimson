@@ -6,7 +6,7 @@ Version:	20110816
 Release:	2
 License:	OFL
 Group:		System/Fonts/True type
-URL:		http://openfontlibrary.org/font/crimson
+URL:		https://openfontlibrary.org/font/crimson
 Source0:	%{pkgname}.zip
 Source1:	OFL.txt
 Source2:	OFL-FAQ.txt
